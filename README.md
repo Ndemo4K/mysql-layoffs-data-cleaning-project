@@ -33,6 +33,8 @@ The dataset contains:
 
  🚀 Tech Stack
 - Python
+- my sql
+- tableau
 - Pandas
 - Matplotlib
 
